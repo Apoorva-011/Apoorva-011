@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **Machine learning,Flask**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
