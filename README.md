@@ -1,7 +1,8 @@
 <h2> Hi, I'm Apoorva! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<p><em>Backend Developer Intern at <a href="https://www.optum.com/">Optum</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+<!-- <p> </p> -->
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 <br>Passionate about building scalable systems and beautiful logic ✨</em></p>
 
 [![Linkedin: apoorva](https://img.shields.io/badge/-Apoorva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apoorva/)](https://www.linkedin.com/in/apoorva/)
@@ -23,10 +24,9 @@
 ```javascript
 const apoorva = {
   pronouns: "she" | "her",
-  code: [C, C++, Python, JavaScript, HTML, CSS],
-  tools: [Node.js, Express, MongoDB, Bootstrap, Pug, Pandas, OpenCV],
-  interests: ["backend development", "AI/ML", "cloud computing", "problem solving"],
-  currently: "learning backend & cloud to build production-grade systems",
+  code: [C, C++, ReactJs HTML, CSS],
+  tools: [Node.js, Express, MongoDB, OpenCV,Docker,AWS],
+  interests: ["web development", "cloud computing", "problem solving"],
   challenge: "improving my DSA & system design skills",
 }
 
