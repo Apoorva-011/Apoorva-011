@@ -1,7 +1,6 @@
 <h2> Hi, I'm Apoorva! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
- ![](https://komarev.com/ghpvc/?username=apoorva-011&style=flat-square&color=ff69b4)
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 <br>Passionate about building scalable systems and beautiful logic ✨</em></p>
 
