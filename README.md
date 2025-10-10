@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 <br>Passionate about building scalable systems and beautiful logic ✨</em></p>
 
-[![Linkedin: apoorva](https://img.shields.io/badge/-Apoorva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apoorva/)](https://www.linkedin.com/in/apoorva/)
+[![Linkedin: apoorva](https://img.shields.io/badge/-Apoorva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apoorva/)](https://www.linkedin.com/in/apoorva-12a654280/)
 [![GitHub Apoorva](https://img.shields.io/github/followers/apoorva-011?label=follow&style=social)](https://github.com/apoorva-011)
 
 ---
