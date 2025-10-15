@@ -1,7 +1,6 @@
 <h2> Hi, I'm Apoorva! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 <br>Passionate about building scalable systems and beautiful logic ✨</em></p>
 
 [![Linkedin: apoorva](https://img.shields.io/badge/-Apoorva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apoorva/)](https://www.linkedin.com/in/apoorva-12a654280/)
