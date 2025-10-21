@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <br>Passionate about building scalable systems and beautiful logic ✨</em></p>
-
+[![An image of @apoorva01011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/apoorva01011)](https://holopin.io/@apoorva01011)
 [![Linkedin: apoorva](https://img.shields.io/badge/-Apoorva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apoorva/)](https://www.linkedin.com/in/apoorva-12a654280/)
 [![GitHub Apoorva](https://img.shields.io/github/followers/apoorva-011?label=follow&style=social)](https://github.com/apoorva-011)
 
