@@ -17,6 +17,10 @@
 
 ---
 
+[![An image of @apoorva01011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/apoorva01011)](https://holopin.io/@apoorva01011)
+
+---
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
@@ -27,5 +31,3 @@ const apoorva = {
   interests: ["web development", "cloud computing", "problem solving"],
   challenge: "improving my DSA & system design skills",
 }
-
-[![An image of @apoorva01011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/apoorva01011)](https://holopin.io/@apoorva01011)
