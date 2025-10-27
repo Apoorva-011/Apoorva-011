@@ -9,7 +9,8 @@
 ---
 
 ### 🏆 GitHub Trophies  
- [![trophy](https://github-trophies.vercel.app/?username=apoorva-011&theme=onedark&margin-w=10&margin-h=10)](https://github.com/lucthienphong1120/github-trophies)
+[![trophy](https://github-trophies.vercel.app/?username=apoorva-011&theme=onedark&margin-w=10&margin-h=10&title=Stars,Commits,PullRequest,Issues,Repositories)](https://github.com/lucthienphong1120/github-trophies)
+
  
 ---
 
