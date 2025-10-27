@@ -9,9 +9,8 @@
 ---
 
 ### 🏆 GitHub Trophies  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=apoorva-011&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&margin-h=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+ [![trophy](https://github-trophies.vercel.app/?username=apoorva-011&theme=onedark&margin-w=10&margin-h=10)](https://github.com/lucthienphong1120/github-trophies)
+ 
 ---
 
 [![An image of @apoorva01011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/apoorva01011)](https://holopin.io/@apoorva01011)
