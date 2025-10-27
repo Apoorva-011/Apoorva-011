@@ -10,9 +10,8 @@
 
 ### 🏆 GitHub Trophies  
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=apoorva-011&theme=onedark&margin-w=10&margin-h=10" alt="apoorva-011" />
-  </a>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=apoorva-011&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&margin-h=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 </p>
 
 ---
